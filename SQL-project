@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 1 - Your Project Name</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Project 1: Your Project Title</h1>
+        <h2>Your Project Subtitle</h2>
+    </header>
+
+    <section>
+        <h2>Overview</h2>
+        <p>A brief introduction to the project.</p>
+
+        <h2>Process</h2>
+        <p>Describe the steps you followed to complete the project, including tools, methods, etc.</p>
+
+        <h2>Artifacts</h2>
+        <p>Include images or presentations related to the project.</p>
+        <img src="artifact1.jpg" alt="Artifact 1">
+        <p>Caption describing the artifact.</p>
+
+        <h2>My Role</h2>
+        <p>Explain your role and contributions to the project.</p>
+    </section>
+
+    <footer>
+        <p>Contact me at <a href="mailto:youremail@example.com">youremail@example.com</a> | <a href="https://www.linkedin.com/in/yourlinkedin">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
